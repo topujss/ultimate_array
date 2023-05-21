@@ -1,0 +1,12 @@
+{
+  "name": "ultimate_array",
+  "version": "1.0.0",
+  "description": "All about array nothing should be left for array",
+  "main": "Array.js",
+  "scripts": {
+    "push": "git add . && git commit -m 'all about array' && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
