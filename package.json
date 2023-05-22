@@ -4,7 +4,7 @@
   "description": "All about array nothing should be left for array",
   "main": "Array.js",
   "scripts": {
-    "push": "git add . && git commit -m 'all about array' && git push"
+    "push": "git add . && git commit -m \"all about array\" && git push"
   },
   "keywords": [],
   "author": "",
